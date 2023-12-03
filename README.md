@@ -5,6 +5,6 @@ We aimed to create a program that can take in an image of signage on a modern da
 
 ## Running the Model
 To run each test, you must add the image paths you are running the tests on (e.g.
-  '''
+  ```
     python3 main.py -i ./data/new/Wellness/Sternlicht1.jpg
-  '''
+  ```
